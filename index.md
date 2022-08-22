@@ -1,4 +1,6 @@
-<div style="background:darkorange;">
+
+  
+  
 ![Alt image](Hero_1.JPG)
 
 # Transport service excellence exceptional customer service Innovative Solutions
@@ -42,7 +44,11 @@ We use some of the world’s most cutting-edge innovations to promote package sa
 
 MOVING VALUABLES ACROSS THE SOUTHERN AFRICAN REGION
 
+<div style="background:darkorange">
+
 ![Alt image](LOGO.png)
+  
+</div>
 
 ## *LEAVE US A MESSAGE*
 
@@ -50,7 +56,7 @@ MOVING VALUABLES ACROSS THE SOUTHERN AFRICAN REGION
                 <input type="text" placeholder="Name :" style="background:transparent; border:none "> <br>
                 <input type="text" placeholder="Email Address :" style="background:transparent; border:none">  <br>
                 <input type="text" placeholder="Message :" style="background:transparent; border:none "> <br>
-                <a href="#" title="submit" style="color:white;font-size:10px">Submit</a>
+                <a href="#" title="submit" style="darkorange;font-size:10px">Submit</a>
 </form>
 
 ***
@@ -68,8 +74,7 @@ Work: +263 67214 2631/2
 ***
 
 ## FOLLOW **US**
-*<a href="https://tanyaradzwa20.github.io/MarkDown2/#myself" title="Title" style="color:white;">Facebook</a>*
-*<a href="https://tanyaradzwa20.github.io/MarkDown2/#myself" title="Title" style="color:white;">Instagram</a>*
-*<a href="https://tanyaradzwa20.github.io/MarkDown2/#myself" title="Title" style="color:white;">Linked In</a>*
+*<a href="https://tanyaradzwa20.github.io/MarkDown2/#myself" title="Title" style="color:darkorange;">Facebook</a>*
+*<a href="https://tanyaradzwa20.github.io/MarkDown2/#myself" title="Title" style="color:darkorange;">Instagram</a>*
+*<a href="https://tanyaradzwa20.github.io/MarkDown2/#myself" title="Title" style="color:darkorange;">Linked In</a>*
   
-  </div>
