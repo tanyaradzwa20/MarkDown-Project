@@ -44,11 +44,10 @@ We use some of the world’s most cutting-edge innovations to promote package sa
 
 MOVING VALUABLES ACROSS THE SOUTHERN AFRICAN REGION
 
-<div style="background:darkorange">
 
-![Alt image](LOGO.png)
+<img src="LOGO.png" alt="" style="background:darkorange">
   
-</div>
+
 
 ## *LEAVE US A MESSAGE*
 
@@ -56,7 +55,7 @@ MOVING VALUABLES ACROSS THE SOUTHERN AFRICAN REGION
                 <input type="text" placeholder="Name :" style="background:transparent; border:none "> <br>
                 <input type="text" placeholder="Email Address :" style="background:transparent; border:none">  <br>
                 <input type="text" placeholder="Message :" style="background:transparent; border:none "> <br>
-                <a href="#" title="submit" style="darkorange;font-size:10px">Submit</a>
+                <a href="#" title="submit" style="darkorange;font-size:15px">Submit</a>
 </form>
 
 ***
