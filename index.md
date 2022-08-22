@@ -64,7 +64,7 @@ MOVING VALUABLES ACROSS THE SOUTHERN AFRICAN REGION
 
 25 Main Road, Anderbolt, Boksburg North, Johannesburg, South Africa
 
-<a href="mailto:loadhaultrucking.com" title="address" >info@loadhaultrucking.com</a>
+<a href="mailto:loadhaultrucking.com" title="address" style="color:darkorange;" >info@loadhaultrucking.com</a>
 
 Mobile: +263 77 272 0112
 
@@ -73,7 +73,7 @@ Work: +263 67214 2631/2
 ***
 
 ## FOLLOW **US**
-*<a href="https://tanyaradzwa20.github.io/MarkDown2/#myself" title="Title" style="color:orange;">Facebook</a>*
+*<a href="https://tanyaradzwa20.github.io/MarkDown2/#myself" title="Title" style="color:darkorange;">Facebook</a>*
 *<a href="https://tanyaradzwa20.github.io/MarkDown2/#myself" title="Title" style="color:darkorange;">Instagram</a>*
 *<a href="https://tanyaradzwa20.github.io/MarkDown2/#myself" title="Title" style="color:darkorange;">Linked In</a>*
   
